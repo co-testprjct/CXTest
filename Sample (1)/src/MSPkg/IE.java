@@ -12,5 +12,6 @@ public class IE {
                   driver.get("https://www.softwaretestingmaterial.com/software-testing-interview-questions-free-ebook/");
                   System.out.println("Selenium Webdriver Script in Internet Explorer browser | Software Testing Material");
                   driver.close();
+                  
            }
 }
